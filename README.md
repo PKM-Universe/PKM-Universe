@@ -150,7 +150,6 @@ Edit `config.json` to customize:
 ## Credits
 
 Based on [SysBot.NET](https://github.com/kwsch/SysBot.NET) by kwsch
-Inspired by [PokeBot](https://github.com/hexbyt3/PokeBot) by hexbyt3
 
 ## License
 
