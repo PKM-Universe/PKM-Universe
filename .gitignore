@@ -1,0 +1,15 @@
+# User-specific files
+config.json
+*.log
+logs/
+dump/
+distribute/
+
+# Build artifacts
+*.pdb
+*.cache
+
+# User data
+*.pk*
+*.wc*
+*.json.bak
