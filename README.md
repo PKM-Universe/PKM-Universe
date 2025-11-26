@@ -1,7 +1,7 @@
 # PokeBot 🎮
 
 ![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.3.2-brightgreen.svg)
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)
 ![Downloads](https://img.shields.io/github/downloads/PKM-Universe/PKM-Universe/total?style=flat-square&color=blue)
 
@@ -249,7 +249,7 @@ Having issues? Want to share your setup?
 
 ## 🔄 Updates
 
-**Current Version:** 1.1.0 (November 25, 2025)
+**Current Version:** 1.3.2 (November 25, 2025)
 
 Stay tuned for updates! ⭐ Star this repository to get notified.
 
