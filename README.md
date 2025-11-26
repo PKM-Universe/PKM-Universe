@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)
-![Downloads](https://img.shields.io/github/downloads/PKM-Universe/PokeBot/total?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/PKM-Universe/PKM-Universe/total?style=flat-square&color=blue)
 
 > **Professional-grade Pokémon trading automation for Nintendo Switch**
 >
@@ -29,7 +29,7 @@ PokeBot is a next-generation trading bot built from the ground up with:
 
 ### Installation in 3 Steps
 
-1. **Download** the latest release from the [Releases](https://github.com/PKM-Universe/PokeBot/releases) page
+1. **Download** the latest release from the [Releases](https://github.com/PKM-Universe/PKM-Universe/releases) page
 2. **Extract** everything to a folder (like `C:\PokeBot`)
 3. **Run** `PokeBot.exe` as Administrator
 
@@ -242,8 +242,8 @@ This project is licensed under **AGPL-3.0**. See the LICENSE file for full detai
 Having issues? Want to share your setup?
 
 - 📖 Read the docs in this repository
-- 🐛 Report bugs in [Issues](https://github.com/PKM-Universe/PokeBot/issues)
-- 💡 Request features in [Discussions](https://github.com/PKM-Universe/PokeBot/discussions)
+- 🐛 Report bugs in [Issues](https://github.com/PKM-Universe/PKM-Universe/issues)
+- 💡 Request features in [Discussions](https://github.com/PKM-Universe/PKM-Universe/discussions)
 
 ---
 
