@@ -1,8 +1,9 @@
-# EricPokeBot 🎮
+# PokeBot 🎮
 
 ![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)
+![Downloads](https://img.shields.io/github/downloads/PKM-Universe/PokeBot/total?style=flat-square&color=blue)
 
 > **Professional-grade Pokémon trading automation for Nintendo Switch**
 >
@@ -12,7 +13,7 @@
 
 ## 🌟 What Makes This Special
 
-EricPokeBot is a next-generation trading bot built from the ground up with:
+PokeBot is a next-generation trading bot built from the ground up with:
 - **Latest PKHeX Core** (v25.11.16-rev.5) - Always up to date
 - **Modern .NET 9.0** - Fast and efficient
 - **Beautiful Web Dashboard** - Control everything from your browser
@@ -28,7 +29,7 @@ EricPokeBot is a next-generation trading bot built from the ground up with:
 
 ### Installation in 3 Steps
 
-1. **Download** the latest release from the [Releases](https://github.com/PokemonLover8888/-EricPokeBot/releases) page
+1. **Download** the latest release from the [Releases](https://github.com/PKM-Universe/PokeBot/releases) page
 2. **Extract** everything to a folder (like `C:\PokeBot`)
 3. **Run** `PokeBot.exe` as Administrator
 
@@ -153,7 +154,7 @@ Want to control your bot from anywhere on your network?
 **Quick Setup:**
 ```cmd
 # Open Command Prompt as Administrator and run:
-netsh advfirewall firewall add rule name="EricPokeBot" dir=in action=allow protocol=TCP localport=8080
+netsh advfirewall firewall add rule name="PokeBot" dir=in action=allow protocol=TCP localport=8080
 ```
 
 **Find Your IP:**
@@ -203,7 +204,7 @@ This is a false positive. Add an exception for the PokeBot folder.
 
 ## 📊 Performance
 
-EricPokeBot is optimized for speed:
+PokeBot is optimized for speed:
 - ⚡ **Fast trades** - Average 2-3 minutes per trade
 - 🔄 **Multiple bots** - Run as many as you want
 - 💾 **Low memory** - Uses ~100MB RAM per bot
@@ -241,14 +242,14 @@ This project is licensed under **AGPL-3.0**. See the LICENSE file for full detai
 Having issues? Want to share your setup?
 
 - 📖 Read the docs in this repository
-- 🐛 Report bugs in [Issues](https://github.com/PokemonLover8888/-EricPokeBot/issues)
-- 💡 Request features in [Discussions](https://github.com/PokemonLover8888/-EricPokeBot/discussions)
+- 🐛 Report bugs in [Issues](https://github.com/PKM-Universe/PokeBot/issues)
+- 💡 Request features in [Discussions](https://github.com/PKM-Universe/PokeBot/discussions)
 
 ---
 
 ## 🔄 Updates
 
-**Current Version:** 1.0.0 (November 25, 2025)
+**Current Version:** 1.1.0 (November 25, 2025)
 
 Stay tuned for updates! ⭐ Star this repository to get notified.
 
@@ -256,10 +257,10 @@ Stay tuned for updates! ⭐ Star this repository to get notified.
 
 <div align="center">
 
-**EricPokeBot** - Making Pokémon Trading Easy
+**PKM Universe PokeBot** - Making Pokémon Trading Easy
 
-Built with ❤️ by Eric | Powered by .NET 9.0
+Powered by .NET 9.0 | Built for the Community
 
-*Trade Smart. Trade Fast. Trade with EricPokeBot.*
+*Trade Smart. Trade Fast. Trade with PokeBot.*
 
 </div>
